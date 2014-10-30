@@ -1,5 +1,5 @@
 {
-    "name": "ezyang/htmlpurifier",
+    "name": "jasonstockman/htmlpurifier",
     "description": "Standards compliant HTML filter written in PHP",
     "type": "library",
     "keywords": ["html"],
@@ -9,7 +9,12 @@
         {
             "name": "Edward Z. Yang",
             "email": "admin@htmlpurifier.org",
-            "homepage": "http://ezyang.com"
+            "homepage": "http://jasonstockman.com"
+        },
+        {
+            "name": "Jason Stockman",
+            "email": "jason@protonmail.ch",
+            "homepage": "http://jasonstockman.com"
         }
     ],
     "require": {
